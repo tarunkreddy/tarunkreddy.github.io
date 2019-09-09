@@ -87,6 +87,11 @@ p {
 	background-image: url("build-two.jpg");
 	opacity: 0.95;
 }
+
+.team {
+	background-image: url("team.jpg");
+	opacity: 0.95;
+}
 .text-container {
 	color: white;
 	font-family: 'Red Hat Display', sans-serif;
